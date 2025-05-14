@@ -5,6 +5,7 @@ echo "Listado de personas:"
 include "persona.php";
 include "persona2.php";
 include "persona3.php";
+include "persona4.php";
 ?>
 
 
