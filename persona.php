@@ -1,3 +1,3 @@
 <?php
-echo “Amancio Ortega\n”;
+echo "Amancio Ortega\n";
 ?>
